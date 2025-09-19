@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/ISCADA_DB_autogen/mocs_compilation.cpp.o -c /workspaces/-/build/ISCADA_DB_autogen/mocs_compilation.cpp",
+  "file": "/workspaces/-/build/ISCADA_DB_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/ISCADA_DB_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/main.cpp.o -c /workspaces/-/db/src/main.cpp",
+  "file": "/workspaces/-/db/src/main.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/main.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/core/DBInitializer.cpp.o -c /workspaces/-/db/src/core/DBInitializer.cpp",
+  "file": "/workspaces/-/db/src/core/DBInitializer.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/core/DBInitializer.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/core/DBManager.cpp.o -c /workspaces/-/db/src/core/DBManager.cpp",
+  "file": "/workspaces/-/db/src/core/DBManager.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/core/DBManager.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/core/DynamicTable.cpp.o -c /workspaces/-/db/src/core/DynamicTable.cpp",
+  "file": "/workspaces/-/db/src/core/DynamicTable.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/core/DynamicTable.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/core/MappedFileOper.cpp.o -c /workspaces/-/db/src/core/MappedFileOper.cpp",
+  "file": "/workspaces/-/db/src/core/MappedFileOper.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/core/MappedFileOper.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/utils/ZipUtils.cpp.o -c /workspaces/-/db/src/utils/ZipUtils.cpp",
+  "file": "/workspaces/-/db/src/utils/ZipUtils.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/utils/ZipUtils.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/ISCADA_DB_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/ISCADA_DB.dir/src/utils/logger.cpp.o -c /workspaces/-/db/src/utils/logger.cpp",
+  "file": "/workspaces/-/db/src/utils/logger.cpp",
+  "output": "CMakeFiles/ISCADA_DB.dir/src/utils/logger.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/TestMappedFileOper_autogen/mocs_compilation.cpp.o -c /workspaces/-/build/TestMappedFileOper_autogen/mocs_compilation.cpp",
+  "file": "/workspaces/-/build/TestMappedFileOper_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/TestMappedFileOper_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/test/TestMappedFileOper.cpp.o -c /workspaces/-/db/test/TestMappedFileOper.cpp",
+  "file": "/workspaces/-/db/test/TestMappedFileOper.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/test/TestMappedFileOper.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/core/DBInitializer.cpp.o -c /workspaces/-/db/src/core/DBInitializer.cpp",
+  "file": "/workspaces/-/db/src/core/DBInitializer.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/core/DBInitializer.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/core/DBManager.cpp.o -c /workspaces/-/db/src/core/DBManager.cpp",
+  "file": "/workspaces/-/db/src/core/DBManager.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/core/DBManager.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/core/DynamicTable.cpp.o -c /workspaces/-/db/src/core/DynamicTable.cpp",
+  "file": "/workspaces/-/db/src/core/DynamicTable.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/core/DynamicTable.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/core/MappedFileOper.cpp.o -c /workspaces/-/db/src/core/MappedFileOper.cpp",
+  "file": "/workspaces/-/db/src/core/MappedFileOper.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/core/MappedFileOper.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/utils/ZipUtils.cpp.o -c /workspaces/-/db/src/utils/ZipUtils.cpp",
+  "file": "/workspaces/-/db/src/utils/ZipUtils.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/utils/ZipUtils.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -I/workspaces/-/build/TestMappedFileOper_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/TestMappedFileOper.dir/src/utils/logger.cpp.o -c /workspaces/-/db/src/utils/logger.cpp",
+  "file": "/workspaces/-/db/src/utils/logger.cpp",
+  "output": "CMakeFiles/TestMappedFileOper.dir/src/utils/logger.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/test_dbmanager_autogen/mocs_compilation.cpp.o -c /workspaces/-/build/test_dbmanager_autogen/mocs_compilation.cpp",
+  "file": "/workspaces/-/build/test_dbmanager_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/test_dbmanager_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/test/test_dbmanager.cpp.o -c /workspaces/-/db/test/test_dbmanager.cpp",
+  "file": "/workspaces/-/db/test/test_dbmanager.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/test/test_dbmanager.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/core/DBInitializer.cpp.o -c /workspaces/-/db/src/core/DBInitializer.cpp",
+  "file": "/workspaces/-/db/src/core/DBInitializer.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/core/DBInitializer.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/core/DBManager.cpp.o -c /workspaces/-/db/src/core/DBManager.cpp",
+  "file": "/workspaces/-/db/src/core/DBManager.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/core/DBManager.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/core/DynamicTable.cpp.o -c /workspaces/-/db/src/core/DynamicTable.cpp",
+  "file": "/workspaces/-/db/src/core/DynamicTable.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/core/DynamicTable.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/core/MappedFileOper.cpp.o -c /workspaces/-/db/src/core/MappedFileOper.cpp",
+  "file": "/workspaces/-/db/src/core/MappedFileOper.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/core/MappedFileOper.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/utils/ZipUtils.cpp.o -c /workspaces/-/db/src/utils/ZipUtils.cpp",
+  "file": "/workspaces/-/db/src/utils/ZipUtils.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/utils/ZipUtils.cpp.o"
+},
+{
+  "directory": "/workspaces/-/build",
+  "command": "/usr/bin/g++ -DENABLE_RECORD_TRACE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/workspaces/-/build\\\" -DQT_TESTCASE_SOURCEDIR=\\\"/workspaces/-/db\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I/workspaces/-/build/test_dbmanager_autogen/include -I/workspaces/-/db/include -I/workspaces/-/db/include/core -I/workspaces/-/db/include/utils -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest  -Wall -Wextra -O2 -Wall -Wextra -O2 -finput-charset=UTF-8 -g -std=gnu++17 -fPIC -o CMakeFiles/test_dbmanager.dir/src/utils/logger.cpp.o -c /workspaces/-/db/src/utils/logger.cpp",
+  "file": "/workspaces/-/db/src/utils/logger.cpp",
+  "output": "CMakeFiles/test_dbmanager.dir/src/utils/logger.cpp.o"
+}
+]

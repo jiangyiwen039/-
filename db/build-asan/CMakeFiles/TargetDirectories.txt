@@ -1,0 +1,16 @@
+/workspaces/-/db/build-asan/CMakeFiles/copy_config_files.dir
+/workspaces/-/db/build-asan/CMakeFiles/ISCADA_DB.dir
+/workspaces/-/db/build-asan/CMakeFiles/TestMappedFileOper.dir
+/workspaces/-/db/build-asan/CMakeFiles/test_dbmanager.dir
+/workspaces/-/db/build-asan/CMakeFiles/edit_cache.dir
+/workspaces/-/db/build-asan/CMakeFiles/rebuild_cache.dir
+/workspaces/-/db/build-asan/CMakeFiles/list_install_components.dir
+/workspaces/-/db/build-asan/CMakeFiles/install.dir
+/workspaces/-/db/build-asan/CMakeFiles/install/local.dir
+/workspaces/-/db/build-asan/CMakeFiles/install/strip.dir
+/workspaces/-/db/build-asan/CMakeFiles/ISCADA_DB_autogen_timestamp_deps.dir
+/workspaces/-/db/build-asan/CMakeFiles/ISCADA_DB_autogen.dir
+/workspaces/-/db/build-asan/CMakeFiles/TestMappedFileOper_autogen_timestamp_deps.dir
+/workspaces/-/db/build-asan/CMakeFiles/TestMappedFileOper_autogen.dir
+/workspaces/-/db/build-asan/CMakeFiles/test_dbmanager_autogen_timestamp_deps.dir
+/workspaces/-/db/build-asan/CMakeFiles/test_dbmanager_autogen.dir

@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-666a006fb14ac003eb1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ISCADA_DB",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ISCADA_DB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ISCADA_DB-Debug-91ebc55861a24361dd20.json",
+					"name" : "ISCADA_DB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ISCADA_DB_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ISCADA_DB_autogen-Debug-c30fbf3057c23ad2804a.json",
+					"name" : "ISCADA_DB_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ISCADA_DB_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ISCADA_DB_autogen_timestamp_deps-Debug-04c9e685b3ab055ecc58.json",
+					"name" : "ISCADA_DB_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestMappedFileOper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestMappedFileOper-Debug-b293168a38a6481cffc2.json",
+					"name" : "TestMappedFileOper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestMappedFileOper_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestMappedFileOper_autogen-Debug-01bb62b0ec6f8185ccd2.json",
+					"name" : "TestMappedFileOper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestMappedFileOper_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestMappedFileOper_autogen_timestamp_deps-Debug-f7217ba80dffbfbd327f.json",
+					"name" : "TestMappedFileOper_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_config_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_config_files-Debug-d1c32179e360e853a4a8.json",
+					"name" : "copy_config_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_dbmanager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_dbmanager-Debug-acd8182f88156bd98fa0.json",
+					"name" : "test_dbmanager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_dbmanager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_dbmanager_autogen-Debug-6e573e805b43f4264ffc.json",
+					"name" : "test_dbmanager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_dbmanager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_dbmanager_autogen_timestamp_deps-Debug-a7efb9b192315d828bb2.json",
+					"name" : "test_dbmanager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/workspaces/-/build",
+		"source" : "/workspaces/-/db"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

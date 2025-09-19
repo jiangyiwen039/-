@@ -1,0 +1,51 @@
+{
+  "tables": [
+    {
+      "name": "用户信息表",
+      "alias": "user_info",
+      "fields": [
+        {
+          "name": "用户ID",
+          "type": "int",
+          "valueLen": 4
+        },
+        {
+          "name": "姓名",
+          "type": "string",
+          "valueLen": 32
+        },
+        {
+          "name": "体重(kg)",
+          "type": "float",
+          "valueLen": 4
+        }
+      ]
+    },
+    {
+      "name": "设备运行日志",
+      "alias": "device_log",
+      "fields": [
+        {
+          "name": "日志ID",
+          "type": "int",
+          "valueLen": 4
+        },
+        {
+          "name": "设备编号",
+          "type": "string",
+          "valueLen": 16
+        },
+        {
+          "name": "温度",
+          "type": "float",
+          "valueLen": 4
+        },
+        {
+          "name": "运行状态",
+          "type": "string",
+          "valueLen": 24
+        }
+      ]
+    }
+  ]
+}

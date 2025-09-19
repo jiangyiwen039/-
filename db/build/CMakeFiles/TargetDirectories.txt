@@ -1,0 +1,16 @@
+/workspaces/-/db/build/CMakeFiles/copy_config_files.dir
+/workspaces/-/db/build/CMakeFiles/ISCADA_DB.dir
+/workspaces/-/db/build/CMakeFiles/TestMappedFileOper.dir
+/workspaces/-/db/build/CMakeFiles/test_dbmanager.dir
+/workspaces/-/db/build/CMakeFiles/edit_cache.dir
+/workspaces/-/db/build/CMakeFiles/rebuild_cache.dir
+/workspaces/-/db/build/CMakeFiles/list_install_components.dir
+/workspaces/-/db/build/CMakeFiles/install.dir
+/workspaces/-/db/build/CMakeFiles/install/local.dir
+/workspaces/-/db/build/CMakeFiles/install/strip.dir
+/workspaces/-/db/build/CMakeFiles/ISCADA_DB_autogen_timestamp_deps.dir
+/workspaces/-/db/build/CMakeFiles/ISCADA_DB_autogen.dir
+/workspaces/-/db/build/CMakeFiles/TestMappedFileOper_autogen_timestamp_deps.dir
+/workspaces/-/db/build/CMakeFiles/TestMappedFileOper_autogen.dir
+/workspaces/-/db/build/CMakeFiles/test_dbmanager_autogen_timestamp_deps.dir
+/workspaces/-/db/build/CMakeFiles/test_dbmanager_autogen.dir
